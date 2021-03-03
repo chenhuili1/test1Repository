@@ -1,0 +1,4 @@
+---- IMC_MoveAbsolute Matches (3 in 3 files) ----
+IMCFun.cpp (d:\zj\sdedu\imc_generic\class):			status = IMC_MoveAbsolute(m_handle, (IMC32)(pdata->pos[0] * g_factcfg.distFac[pdata->axis]), a, fifo);
+PackageFun.h (d:\zj\sdedu\imc_generic\drivers):IMC_API IMC_STATUS WINAPI IMC_MoveAbsolute (IMC_HANDLE Handle, IMC32 pos, IMC32 axis,int UseQ);
+PackageFun.h (d:\zj\sdedu\imc_generic\imcdriver):IMC_API IMC_STATUS WINAPI IMC_MoveAbsolute (IMC_HANDLE Handle, IMC32 pos, IMC32 axis,int UseQ);

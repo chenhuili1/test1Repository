@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMC_Generic", "IMC_Generic\IMC_Generic.vcproj", "{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|FLAM335xDSDK_zh (ARMv4I) = Debug|FLAM335xDSDK_zh (ARMv4I)
+		Debug|Win32 = Debug|Win32
+		Release|FLAM335xDSDK_zh (ARMv4I) = Release|FLAM335xDSDK_zh (ARMv4I)
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|FLAM335xDSDK_zh (ARMv4I).ActiveCfg = Debug|FLAM335xDSDK_zh (ARMv4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|FLAM335xDSDK_zh (ARMv4I).Build.0 = Debug|FLAM335xDSDK_zh (ARMv4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|FLAM335xDSDK_zh (ARMv4I).Deploy.0 = Debug|FLAM335xDSDK_zh (ARMv4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|Win32.ActiveCfg = Debug|Win32
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|Win32.Build.0 = Debug|Win32
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|FLAM335xDSDK_zh (ARMv4I).ActiveCfg = Release|FLAM335xDSDK_zh (ARMv4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|FLAM335xDSDK_zh (ARMv4I).Build.0 = Release|FLAM335xDSDK_zh (ARMv4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|FLAM335xDSDK_zh (ARMv4I).Deploy.0 = Release|FLAM335xDSDK_zh (ARMv4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|Win32.ActiveCfg = Release|Win32
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

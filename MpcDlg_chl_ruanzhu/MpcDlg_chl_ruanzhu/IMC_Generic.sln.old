@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMC_Generic", "IMC_Generic\IMC_Generic.vcproj", "{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|McgsTpc_617_sdk (ARMV4I) = Debug|McgsTpc_617_sdk (ARMV4I)
+		Debug|nTouch2416 (ARMV4I) = Debug|nTouch2416 (ARMV4I)
+		Release|McgsTpc_617_sdk (ARMV4I) = Release|McgsTpc_617_sdk (ARMV4I)
+		Release|nTouch2416 (ARMV4I) = Release|nTouch2416 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|McgsTpc_617_sdk (ARMV4I).ActiveCfg = Debug|McgsTpc_617_sdk (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|McgsTpc_617_sdk (ARMV4I).Build.0 = Debug|McgsTpc_617_sdk (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|McgsTpc_617_sdk (ARMV4I).Deploy.0 = Debug|McgsTpc_617_sdk (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|nTouch2416 (ARMV4I).ActiveCfg = Debug|nTouch2416 (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|nTouch2416 (ARMV4I).Build.0 = Debug|nTouch2416 (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Debug|nTouch2416 (ARMV4I).Deploy.0 = Debug|nTouch2416 (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|McgsTpc_617_sdk (ARMV4I).ActiveCfg = Release|McgsTpc_617_sdk (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|McgsTpc_617_sdk (ARMV4I).Build.0 = Release|McgsTpc_617_sdk (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|McgsTpc_617_sdk (ARMV4I).Deploy.0 = Release|McgsTpc_617_sdk (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|nTouch2416 (ARMV4I).ActiveCfg = Release|nTouch2416 (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|nTouch2416 (ARMV4I).Build.0 = Release|nTouch2416 (ARMV4I)
+		{137A8BBF-AE0A-4EF2-9F41-3F93AA115496}.Release|nTouch2416 (ARMV4I).Deploy.0 = Release|nTouch2416 (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
